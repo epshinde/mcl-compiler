@@ -1,0 +1,11 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Editor / OS cruft
+.vscode/ipch/
+*.suo
+.DS_Store
+Thumbs.db
